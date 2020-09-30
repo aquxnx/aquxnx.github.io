@@ -134,7 +134,7 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   list-style-type: circle;
   color: #505e77;
-  list-style-image: url("/aquino2_cv/img/circle_list.png");
+  list-style-image: url("/img/circle_list.png");
   padding: 10px 20px;
 }
 .block_img {
@@ -228,6 +228,4 @@ p {
 .footer img {
   width: 40px;
   margin: 5px;
-  display: ;
-  text-align: ;
 }
