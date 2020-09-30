@@ -27,7 +27,9 @@ p {
   letter-spacing: 50;
   color: #505e77;
 }
-
+img {
+  max-width: 100%;
+}
 .btn1 {
   background-color: #e57b1f;
   text-align: center;
