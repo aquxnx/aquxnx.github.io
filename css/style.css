@@ -58,18 +58,23 @@ img {
   padding: 15px 0;
   z-index: 10;
 }
+.header_menu {
+  text-align: left;
+}
 .header img {
   width: 140px;
   height: 40px;
 }
 .header ul li {
   display: inline;
-  font-size: 22px;
-  padding: 0 20px;
-  margin: 20 auto;
 }
-
 .header ul li a {
+  display: inline;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: lowercase;
+  padding: 0 20px;
   color: #09bead;
 }
 .header ul li a:hover {
@@ -113,6 +118,9 @@ img {
   width: 200px;
   padding: 50px 0;
 }
+.subtitle p {
+  font-size: 15px;
+}
 
 .foto_sobre img {
   width: 100%;
@@ -137,6 +145,7 @@ img {
   list-style-type: circle;
   color: #505e77;
   list-style-image: url("/img/circle_list.png");
+  list-style-position: inside;
   padding: 10px 20px;
 }
 .block_img {

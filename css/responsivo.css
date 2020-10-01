@@ -1,0 +1,81 @@
+/* Estilo Tablet */
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+}
+
+/* Estilo Smartphone */
+@media only screen and (max-width: 787px) {
+  .header {
+    position: relative;
+  }
+  .header img {
+    display: block;
+    margin: 0 auto;
+  }
+  .header_menu {
+    text-align: center;
+  }
+  .header_menu ul li a {
+    display: inline-block;
+    margin: 0 auto;
+  }
+
+  /* Landing */
+  .text_home {
+    padding: 50px 0px 0px 0px;
+  }
+  .landing {
+    padding: 0;
+  }
+  .landing h2 {
+    font-size: 18px;
+  }
+  .landing h1 {
+    font-size: 40px;
+    padding-bottom: 5px;
+  }
+  .landing img {
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+  .foto_sobre {
+    margin: 0 auto;
+  }
+  .text_sobre {
+    padding: 20px 10px;
+    margin: 0px 20px;
+  }
+  .text_sobre p {
+    font-size: 14px;
+  }
+  .text_sobre ul {
+    padding-bottom: 20px;
+  }
+  .text_sobre ul li {
+    padding-bottom: ;
+    margin: 0px 0px;
+  }
+
+  .btn1,
+  .btn2 {
+    display: inline-block;
+    padding: 0px;
+    margin: 0 9px;
+  }
+  .resume_pic {
+    position: relative;
+    background: #202a36;
+  }
+  .resume_text {
+    position: relative;
+    padding-left: 10px;
+    top: 10px;
+    margin: 0 auto;
+  }
+  .resume_text p {
+    padding-top: 5px;
+    color: ;
+  }
+  .resume_text span {
+    margin-right: 20px;
+  }
+}
