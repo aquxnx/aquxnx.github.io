@@ -1,3 +1,3 @@
-# link on browser >> https://aquxnx.github.io/
+https://aquxnx.github.io/
 
-Primeira criação de site HTML CSS. 
+Primeira criação de site HTML CSS.
