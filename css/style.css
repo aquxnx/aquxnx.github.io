@@ -33,21 +33,38 @@ img {
 .btn1 {
   background-color: #e57b1f;
   text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 14px;
   margin: 15px 40px;
-  border: #161d27;
+  border: #505e77 solid;
   box-shadow: #161d27;
   height: 40px;
   width: 120px;
   display: inline-block;
   border-radius: 20px;
 }
+.btn1:hover {
+  color: #202a36;
+  font-size: 15px;
+}
 .btn2 {
   background-color: #09bead;
-  border: #161d27;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 14px;
+  margin: 15px 40px;
+  border: #505e77 solid;
+  box-shadow: #161d27;
   height: 40px;
   width: 120px;
   display: inline-block;
   border-radius: 20px;
+}
+.btn2:hover {
+  color: #202a36;
+  font-size: 15px;
 }
 /* Header Menu */
 .header {
