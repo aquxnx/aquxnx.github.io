@@ -14,6 +14,9 @@
   .header_menu {
     text-align: center;
   }
+  .header_menu ul {
+    text-align: center;
+  }
   .header_menu ul li a {
     display: inline-block;
     margin: 0 auto;
@@ -77,3 +80,5 @@
     margin-right: 20px;
   }
 }
+
+/* Contato */
