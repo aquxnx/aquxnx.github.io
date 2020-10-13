@@ -1,5 +1,15 @@
 /* Estilo Tablet */
 @media only screen and (min-width: 788px) and (max-width: 979px) {
+  .text_sobre {
+    height: 351px;
+    padding: 12px;
+  }
+  .text_sobre h3 {
+    font-size: 18px ;
+}
+.btn1 {
+  position: absolute;
+  margin: ;
 }
 
 /* Estilo Smartphone */
