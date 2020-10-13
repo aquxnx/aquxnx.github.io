@@ -1,38 +1,18 @@
-/* Estilo Tablet */
-@media only screen and (min-width: 788px) and (max-width: 979px) {
-  .text_sobre {
-    height: 351px;
-    padding: 12px;
+
+  @media only screen and (max-width: 787px) {
   }
-  .text_sobre h3 {
-    font-size: 18px ;
-}
-.btn1 {
-  position: absolute;
-  margin: -100px 225px;
-}
-.btn2 {
-  position: absolute;
-  margin: -50px 225px;
-}
-/* Estilo Smartphone */
-@media only screen and (max-width: 787px) {
+
   .header {
     position: relative;
   }
   .header img {
-    display: block;
-    margin: auto 40%;
-  }
-  .header_menu {
-    text-align: center;
+    width: 140px;
+    height: 40px;
+    margin: 0px auto;
   }
   .header_menu ul {
-    text-align: center;
-  }
-  .header_menu ul li a {
-    display: inline-block;
-    margin: 0 auto;
+    margin: auto 0;
+    display: inline;
   }
 
   /* Landing */
