@@ -9,9 +9,12 @@
 }
 .btn1 {
   position: absolute;
-  margin: ;
+  margin: -100px 225px;
 }
-
+.btn2 {
+  position: absolute;
+  margin: -50px 225px;
+}
 /* Estilo Smartphone */
 @media only screen and (max-width: 787px) {
   .header {
@@ -19,7 +22,7 @@
   }
   .header img {
     display: block;
-    margin: 0 auto;
+    margin: auto 40%;
   }
   .header_menu {
     text-align: center;
@@ -90,5 +93,3 @@
     margin-right: 20px;
   }
 }
-
-/* Contato */
